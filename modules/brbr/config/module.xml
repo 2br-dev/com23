@@ -1,0 +1,8 @@
+<config>
+	<defaultValues>
+		<name>Модуль, дописанный компанией  2Br</name>
+		<description>Вносит изменения в логику работы движка - по заказу ООО Акватория</description>
+		<version>1.0.0</version>
+		<author>2Br</author>
+	</defaultValues>
+</config>

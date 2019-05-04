@@ -1,0 +1,193 @@
+[20.02.2018 18:08:32] Начало отправки уведомления mobilesiteapp-messagetousers через провайдер PushSender\Model\Firebase\Provider\GoogleFCM
+[20.02.2018 18:08:32] Тело PUSH уведомления:\n\r array (
+  'registration_ids' => 
+  array (
+    0 => 'ee5SpN8Rc9o:APA91bFmX10ZX472bd3ID898vO7WoGj8LkOw9b9db0I7V1mZfT7E6sd-8ttdRtzttJD0E1lwRyEcLp6gUm69c6tqqMeXtumS0sapQq4GbiHMiPvhpDWdmh44fIQddgpC_vQa3_THDBcR',
+  ),
+  'notification' => 
+  array (
+    'title' => 'test',
+    'body' => 'test',
+  ),
+  'aps' => 
+  array (
+    'content_available' => 1,
+    'sound' => 'default',
+  ),
+  'data' => 
+  array (
+    'site_uid' => 'dd938e76ff4af5038274f9cc3d8e46a36375808d',
+    'soundname' => 'default',
+    'content-available' => '1',
+    'action' => false,
+    'params' => '{"no_show_toast":false,"title":"test","message":"test"}',
+    'notId' => 1519139312,
+  ),
+  'notId' => 1519139312,
+  'priority' => 'high',
+)
+[20.02.2018 18:08:32] Тело запроса к серверу:\n\r array (
+  'http' => 
+  array (
+    'method' => 'POST',
+    'header' => 'Content-Type: application/json;charset=utf-8
+Authorization: key=AAAAc-4cJws:APA91bFGNfXGaRH35xpg-E2vyqGvwp8Z6-5cKlBmMcyMoMsPiWLQrOZrrE0tPu-qdoosz6LapfxENcoWteGNeonrMx4dJeN3U-A1qXW1tW7cSI08qFAzyln1s4268HuSvB-sbOdv5qYt
+',
+    'content' => '{"registration_ids":["ee5SpN8Rc9o:APA91bFmX10ZX472bd3ID898vO7WoGj8LkOw9b9db0I7V1mZfT7E6sd-8ttdRtzttJD0E1lwRyEcLp6gUm69c6tqqMeXtumS0sapQq4GbiHMiPvhpDWdmh44fIQddgpC_vQa3_THDBcR"],"notification":{"title":"test","body":"test"},"aps":{"content_available":1,"sound":"default"},"data":{"site_uid":"dd938e76ff4af5038274f9cc3d8e46a36375808d","soundname":"default","content-available":"1","action":false,"params":"{\\"no_show_toast\\":false,\\"title\\":\\"test\\",\\"message\\":\\"test\\"}","notId":1519139312},"notId":1519139312,"priority":"high"}',
+    'timeout' => 10,
+  ),
+)
+[20.02.2018 18:08:33] Получен ответ от API: {"multicast_id":6715900321225982181,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+[20.02.2018 18:13:18] Начало отправки уведомления mobilemanagerapp-newordertoadmin через провайдер PushSender\Model\Firebase\Provider\RsProvider
+[20.02.2018 18:13:18] POST запрос на URL: http://readyscript.ru/api/methods/push.sendfirebase с параметрами: target%5Bto%5D=cAeK5kHEWYc%3AAPA91bHlG_2DQxjc_LF2La9CAIF033yGMsydiSVMKM2kkjHib65_uBmR2F0r9DPei8FDcm8mANmyCV9kEVveJZwuhQbW_lVHFAimm4lOjrW1I1yhcDGIKaR-JSD3amEnYE5UiS5zaGme&notification%5Btitle%5D=%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7+N20807+%D0%BD%D0%B0+%D1%81%D1%83%D0%BC%D0%BC%D1%83+300+%D1%80.&notification%5Bbody%5D=%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%3A+%D0%93%D0%BE%D1%80%D0%B4%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE+%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F+%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%BD%D0%B0%2C+%D0%A1%D0%B0%D0%B9%D1%82%3A+com23.ru&notification%5Bclick_action%5D=com.readyscript.dk.storemanagement.Order.Detail_TARGET_NOTIFICATION&options%5Bdata%5D%5Border_id%5D=20807&options%5Bdata%5D%5Bsite_uid%5D=dd938e76ff4af5038274f9cc3d8e46a36375808d&auth_type=license&main_license_hash=018491e7a6a5cd2a08b85c44362c56b4f3b28f22
+[20.02.2018 18:13:19] Получен ответ от API: {
+    "response": {
+        "multicast_id": 4612797214246625829,
+        "success": 1,
+        "failure": 0,
+        "canonical_ids": 0,
+        "results": [
+            {
+                "message_id": "0:1519139599296906%716c044a716c044a"
+            }
+        ]
+    }
+}
+[20.02.2018 18:22:33] Начало отправки уведомления mobilesiteapp-orderchangetouser через провайдер PushSender\Model\Firebase\Provider\GoogleFCM
+[20.02.2018 18:22:33] Отправка отклонена по причине: Нет ни одного получателя для push уведомлений
+[20.02.2018 18:22:35] Начало отправки уведомления mobilesiteapp-messagetousers через провайдер PushSender\Model\Firebase\Provider\GoogleFCM
+[20.02.2018 18:22:35] Тело PUSH уведомления:\n\r array (
+  'registration_ids' => 
+  array (
+    0 => 'dtKHiWrwZ7E:APA91bEFFmejBmc1LTDYECq2jDr9PGe4PZDBwrQEPedSEAhy_8Ltd3dcbAylj6HwUihkiz1f5dWw8UaWzTGJidhVqvGl6uKtEU2pMHR-GhCwnq51fH5SHORQ3jyf5YTzidptieA1yLYN',
+  ),
+  'data' => 
+  array (
+    'title' => 'test',
+    'body' => 'test',
+    'site_uid' => 'dd938e76ff4af5038274f9cc3d8e46a36375808d',
+    'soundname' => 'default',
+    'content-available' => '1',
+    'action' => false,
+    'params' => '{"no_show_toast":false,"title":"test","message":"test"}',
+    'notId' => 1519140155,
+  ),
+  'notId' => 1519140155,
+  'priority' => 'high',
+)
+[20.02.2018 18:22:35] Тело запроса к серверу:\n\r array (
+  'http' => 
+  array (
+    'method' => 'POST',
+    'header' => 'Content-Type: application/json;charset=utf-8
+Authorization: key=AAAAc-4cJws:APA91bFGNfXGaRH35xpg-E2vyqGvwp8Z6-5cKlBmMcyMoMsPiWLQrOZrrE0tPu-qdoosz6LapfxENcoWteGNeonrMx4dJeN3U-A1qXW1tW7cSI08qFAzyln1s4268HuSvB-sbOdv5qYt
+',
+    'content' => '{"registration_ids":["dtKHiWrwZ7E:APA91bEFFmejBmc1LTDYECq2jDr9PGe4PZDBwrQEPedSEAhy_8Ltd3dcbAylj6HwUihkiz1f5dWw8UaWzTGJidhVqvGl6uKtEU2pMHR-GhCwnq51fH5SHORQ3jyf5YTzidptieA1yLYN"],"data":{"title":"test","body":"test","site_uid":"dd938e76ff4af5038274f9cc3d8e46a36375808d","soundname":"default","content-available":"1","action":false,"params":"{\\"no_show_toast\\":false,\\"title\\":\\"test\\",\\"message\\":\\"test\\"}","notId":1519140155},"notId":1519140155,"priority":"high"}',
+    'timeout' => 10,
+  ),
+)
+[20.02.2018 18:22:35] Получен ответ от API: {"multicast_id":5454135367333572725,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+[20.02.2018 18:23:10] Начало отправки уведомления mobilesiteapp-messagetousers через провайдер PushSender\Model\Firebase\Provider\GoogleFCM
+[20.02.2018 18:23:10] Тело PUSH уведомления:\n\r array (
+  'registration_ids' => 
+  array (
+    0 => 'dtKHiWrwZ7E:APA91bEFFmejBmc1LTDYECq2jDr9PGe4PZDBwrQEPedSEAhy_8Ltd3dcbAylj6HwUihkiz1f5dWw8UaWzTGJidhVqvGl6uKtEU2pMHR-GhCwnq51fH5SHORQ3jyf5YTzidptieA1yLYN',
+  ),
+  'data' => 
+  array (
+    'title' => 'test2',
+    'body' => 'test2333',
+    'site_uid' => 'dd938e76ff4af5038274f9cc3d8e46a36375808d',
+    'soundname' => 'default',
+    'content-available' => '1',
+    'action' => false,
+    'params' => '{"no_show_toast":false,"title":"test2","message":"test2333"}',
+    'notId' => 1519140190,
+  ),
+  'notId' => 1519140190,
+  'priority' => 'high',
+)
+[20.02.2018 18:23:10] Тело запроса к серверу:\n\r array (
+  'http' => 
+  array (
+    'method' => 'POST',
+    'header' => 'Content-Type: application/json;charset=utf-8
+Authorization: key=AAAAc-4cJws:APA91bFGNfXGaRH35xpg-E2vyqGvwp8Z6-5cKlBmMcyMoMsPiWLQrOZrrE0tPu-qdoosz6LapfxENcoWteGNeonrMx4dJeN3U-A1qXW1tW7cSI08qFAzyln1s4268HuSvB-sbOdv5qYt
+',
+    'content' => '{"registration_ids":["dtKHiWrwZ7E:APA91bEFFmejBmc1LTDYECq2jDr9PGe4PZDBwrQEPedSEAhy_8Ltd3dcbAylj6HwUihkiz1f5dWw8UaWzTGJidhVqvGl6uKtEU2pMHR-GhCwnq51fH5SHORQ3jyf5YTzidptieA1yLYN"],"data":{"title":"test2","body":"test2333","site_uid":"dd938e76ff4af5038274f9cc3d8e46a36375808d","soundname":"default","content-available":"1","action":false,"params":"{\\"no_show_toast\\":false,\\"title\\":\\"test2\\",\\"message\\":\\"test2333\\"}","notId":1519140190},"notId":1519140190,"priority":"high"}',
+    'timeout' => 10,
+  ),
+)
+[20.02.2018 18:23:10] Получен ответ от API: {"multicast_id":7122711180955675280,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+[20.02.2018 18:26:42] Начало отправки уведомления mobilesiteapp-messagetousers через провайдер PushSender\Model\Firebase\Provider\GoogleFCM
+[20.02.2018 18:26:42] Тело PUSH уведомления:\n\r array (
+  'registration_ids' => 
+  array (
+    0 => 'fWKWzaFFXfc:APA91bFNr_9FBwHceCKm7RinH6J-8HKMvgV846wxg6QRTFHsdUPf14t-ukse_2N8SsdvrvBh7w6jZUIOc1tyeApV_nOs8LLiUiqdOubEgFRaL0FMziTToJP_yTF3xSqh3tnTPYUJFQML',
+  ),
+  'data' => 
+  array (
+    'title' => 'test',
+    'body' => 'test',
+    'site_uid' => 'dd938e76ff4af5038274f9cc3d8e46a36375808d',
+    'soundname' => 'default',
+    'content-available' => '1',
+    'action' => false,
+    'params' => '{"no_show_toast":false,"title":"test","message":"test"}',
+    'notId' => 1519140402,
+  ),
+  'notId' => 1519140402,
+  'priority' => 'high',
+)
+[20.02.2018 18:26:42] Тело запроса к серверу:\n\r array (
+  'http' => 
+  array (
+    'method' => 'POST',
+    'header' => 'Content-Type: application/json;charset=utf-8
+Authorization: key=AAAAc-4cJws:APA91bFGNfXGaRH35xpg-E2vyqGvwp8Z6-5cKlBmMcyMoMsPiWLQrOZrrE0tPu-qdoosz6LapfxENcoWteGNeonrMx4dJeN3U-A1qXW1tW7cSI08qFAzyln1s4268HuSvB-sbOdv5qYt
+',
+    'content' => '{"registration_ids":["fWKWzaFFXfc:APA91bFNr_9FBwHceCKm7RinH6J-8HKMvgV846wxg6QRTFHsdUPf14t-ukse_2N8SsdvrvBh7w6jZUIOc1tyeApV_nOs8LLiUiqdOubEgFRaL0FMziTToJP_yTF3xSqh3tnTPYUJFQML"],"data":{"title":"test","body":"test","site_uid":"dd938e76ff4af5038274f9cc3d8e46a36375808d","soundname":"default","content-available":"1","action":false,"params":"{\\"no_show_toast\\":false,\\"title\\":\\"test\\",\\"message\\":\\"test\\"}","notId":1519140402},"notId":1519140402,"priority":"high"}',
+    'timeout' => 10,
+  ),
+)
+[20.02.2018 18:26:43] Получен ответ от API: {"multicast_id":7523153386896816136,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1519140402987707%3fbd0462f9fd7ecd"}]}
+[20.02.2018 18:27:20] Начало отправки уведомления mobilesiteapp-messagetousers через провайдер PushSender\Model\Firebase\Provider\GoogleFCM
+[20.02.2018 18:27:20] Тело PUSH уведомления:\n\r array (
+  'registration_ids' => 
+  array (
+    0 => 'fWKWzaFFXfc:APA91bFNr_9FBwHceCKm7RinH6J-8HKMvgV846wxg6QRTFHsdUPf14t-ukse_2N8SsdvrvBh7w6jZUIOc1tyeApV_nOs8LLiUiqdOubEgFRaL0FMziTToJP_yTF3xSqh3tnTPYUJFQML',
+  ),
+  'data' => 
+  array (
+    'title' => 'test344',
+    'body' => 'test677',
+    'site_uid' => 'dd938e76ff4af5038274f9cc3d8e46a36375808d',
+    'soundname' => 'default',
+    'content-available' => '1',
+    'action' => 'ProductPage',
+    'params' => '{"no_show_toast":true,"title":"test344","message":"test677","id":"395"}',
+    'notId' => 1519140440,
+  ),
+  'notId' => 1519140440,
+  'priority' => 'high',
+)
+[20.02.2018 18:27:20] Тело запроса к серверу:\n\r array (
+  'http' => 
+  array (
+    'method' => 'POST',
+    'header' => 'Content-Type: application/json;charset=utf-8
+Authorization: key=AAAAc-4cJws:APA91bFGNfXGaRH35xpg-E2vyqGvwp8Z6-5cKlBmMcyMoMsPiWLQrOZrrE0tPu-qdoosz6LapfxENcoWteGNeonrMx4dJeN3U-A1qXW1tW7cSI08qFAzyln1s4268HuSvB-sbOdv5qYt
+',
+    'content' => '{"registration_ids":["fWKWzaFFXfc:APA91bFNr_9FBwHceCKm7RinH6J-8HKMvgV846wxg6QRTFHsdUPf14t-ukse_2N8SsdvrvBh7w6jZUIOc1tyeApV_nOs8LLiUiqdOubEgFRaL0FMziTToJP_yTF3xSqh3tnTPYUJFQML"],"data":{"title":"test344","body":"test677","site_uid":"dd938e76ff4af5038274f9cc3d8e46a36375808d","soundname":"default","content-available":"1","action":"ProductPage","params":"{\\"no_show_toast\\":true,\\"title\\":\\"test344\\",\\"message\\":\\"test677\\",\\"id\\":\\"395\\"}","notId":1519140440},"notId":1519140440,"priority":"high"}',
+    'timeout' => 10,
+  ),
+)
+[20.02.2018 18:27:20] Получен ответ от API: {"multicast_id":8813962913183683676,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1519140440812721%3fbd0462f9fd7ecd"}]}
+[20.02.2018 18:27:32] Начало отправки уведомления mobilemanagerapp-newordertoadmin через провайдер PushSender\Model\Firebase\Provider\RsProvider
+[20.02.2018 18:27:32] Отправка отклонена по причине: Нет ни одного получателя для push уведомлений
+[20.02.2018 18:56:08] Начало отправки уведомления mobilemanagerapp-newordertoadmin через провайдер PushSender\Model\Firebase\Provider\RsProvider
+[20.02.2018 18:56:08] Отправка отклонена по причине: Нет ни одного получателя для push уведомлений
+[20.02.2018 19:31:51] Начало отправки уведомления mobilesiteapp-orderchangetouser через провайдер PushSender\Model\Firebase\Provider\GoogleFCM
+[20.02.2018 19:31:51] Отправка отклонена по причине: Нет ни одного получателя для push уведомлений
+[20.02.2018 19:44:54] Начало отправки уведомления mobilemanagerapp-newordertoadmin через провайдер PushSender\Model\Firebase\Provider\RsProvider
+[20.02.2018 19:44:54] Отправка отклонена по причине: Нет ни одного получателя для push уведомлений

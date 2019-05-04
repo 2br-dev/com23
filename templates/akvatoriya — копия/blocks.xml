@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<structure grid_system="gs960">
+  <page route_id="article-front-view" context="theme" template="%THEME%/wrapper_article.tpl" inherit="1"/>
+  <page route_id="catalog-front-compare" context="theme" template="%THEME%/fullscreen.tpl" inherit="1"/>
+  <page route_id="catalog-front-listproducts" context="theme" template="%THEME%/wrapper_catalog.tpl" inherit="1"/>
+  <page route_id="default" context="theme" template="%THEME%/default.tpl" inherit="1"/>
+  <page route_id="main.index" context="theme" template="%THEME%/index.tpl" inherit="1"/>
+  <page route_id="menu.item_1" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/o-kompanii.tpl" inherit="0"/>
+  <page route_id="menu.item_10" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/nagradi.tpl" inherit="1"/>
+  <page route_id="menu.item_11" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/galereya.tpl" inherit="1"/>
+  <page route_id="menu.item_12" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/komanda.tpl" inherit="1"/>
+  <page route_id="menu.item_13" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/rekvizity.tpl" inherit="1"/>
+  <page route_id="menu.item_14" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/akcii.tpl" inherit="1"/>
+  <page route_id="menu.item_15" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/galereya-album1.tpl" inherit="1"/>
+  <page route_id="menu.item_16" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/galereya-album2.tpl" inherit="1"/>
+  <page route_id="menu.item_17" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/galereya-album3.tpl" inherit="1"/>
+  <page route_id="menu.item_18" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/galereya-album4.tpl" inherit="1"/>
+  <page route_id="menu.item_19" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/galereya-album5.tpl" inherit="1"/>
+  <page route_id="menu.item_20" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/protovary-voda.tpl" inherit="1"/>
+  <page route_id="menu.item_21" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/protovary-kulery.tpl" inherit="1"/>
+  <page route_id="menu.item_22" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/protovary-pompy.tpl" inherit="1"/>
+  <page route_id="menu.item_23" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/protovary-filtry.tpl" inherit="1"/>
+  <page route_id="menu.item_25" context="theme" template="theme:akvatoriya/moduleview/query/query.tpl" inherit="1"/>
+  <page route_id="menu.item_3" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/mirvodi.tpl" inherit="1"/>
+  <page route_id="menu.item_30" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/konfeden.tpl" inherit="1"/>
+  <page route_id="menu.item_31" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/soglashenie.tpl" inherit="1"/>
+  <page route_id="menu.item_32" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/shops/rosstovskoe-shosse-14.tpl" inherit="0"/>
+  <page route_id="menu.item_4" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/kontakti.tpl" inherit="1"/>
+  <page route_id="menu.item_6" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/dlyadilerov.tpl" inherit="1"/>
+  <page route_id="menu.item_7" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/service.tpl" inherit="1"/>
+  <page route_id="menu.item_8" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/protovary.tpl" inherit="1"/>
+  <page route_id="menu.item_9" context="theme" template="theme:akvatoriya/moduleview/menu/blocks/menu/headerMenu/dostavka.tpl" inherit="1"/>
+  <page route_id="shop-front-cartpage" context="theme" template="%THEME%/wrapper_cart.tpl" inherit="1"/>
+  <page route_id="shop-front-checkout" context="theme" template="%THEME%/wrapper_checkout.tpl" inherit="1"/>
+  <page route_id="shop-front-mybalance" context="theme" template="%THEME%/wrapper_profile.tpl" inherit="1"/>
+  <page route_id="shop-front-myorders" context="theme" template="%THEME%/wrapper_profile.tpl" inherit="1"/>
+  <page route_id="shop-front-myorderview" context="theme" template="%THEME%/wrapper_profile.tpl" inherit="1"/>
+  <page route_id="support-front-support" context="theme" template="%THEME%/wrapper_profile.tpl" inherit="1"/>
+  <page route_id="users-front-profile" context="theme" template="%THEME%/wrapper_profile.tpl" inherit="1"/>
+</structure>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">SberbankAcPayment</name>
+        <description multilanguage="true">Интернет-эквайринг Сбербанк</description>
+        <version>1.0.4.0</version>
+        <author>Николай Кравцов vampirus.ru</author>
+    </defaultValues>
+</config>

@@ -1,0 +1,67 @@
+.costValuesWrapper{
+    display: block;
+}
+
+.costValuesWrapper .costValues{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-between;
+    -webkit-justify-content: space-between;
+}
+
+.costValuesWrapper .costItem .costTitle{
+    font-size: 1.2rem;
+}
+
+.costValuesWrapper .costItem{
+    width: 33%;
+}
+
+.costValuesWrapper .costItem:first-child{
+    border-right: 1px solid #e8e8e8;
+}
+
+.costValuesWrapper .costItem:nth-child(2){
+    border-right: 1px solid #e8e8e8;
+}
+
+.costValuesWrapper .help{
+    font-size: 1.1rem;
+}
+
+.productButtonsInList{
+    text-align: center;
+}
+
+.productButtonsInList .first_button{
+    margin-bottom: 20px !important;
+}
+
+.productButtonsInList button{
+    display: inline-block;
+    max-width: 140px;
+    height: 3.6rem !important;
+}
+
+.card-content-md{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+cartpage-blocks-cartpage .cartTopLine p:nth-of-type(1){
+    font-size: 3rem;
+}
+
+category-blocks-listproductspage ion-card ion-card-content,
+category-blocks-topproducts ion-card ion-card-content,
+category-blocks-productrecommended ion-card ion-card-content,
+favorite-blocks-favoritepage ion-card ion-card-content {
+    height: 420px;
+}
+
+category-blocks-listproductspage ion-card ion-card-content .cost,
+category-blocks-topproducts ion-card ion-card-content .cost,
+category-blocks-productrecommended ion-card ion-card-content .cost,
+favorite-blocks-favoritepage ion-card ion-card-content .cost{
+    margin-top: 45px;
+}

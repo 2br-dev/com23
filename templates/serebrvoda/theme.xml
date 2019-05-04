@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme scriptType="shop" scriptMajorVersion="2" themeType="pc">
+    <general>
+        <author>ReadyScript lab.</author>
+        <name>Серебряная вода</name>
+        <description>Адаптивная тема, созданная без использования сетки</description>
+        <version>1.0.0.17</version>
+    </general>    
+</theme>

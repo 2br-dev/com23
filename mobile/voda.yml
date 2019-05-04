@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<yml_catalog date="2016-02-05 17:22">
+  <shop>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="100">Горячий ключ 19 л</category>
+      <category id="101">Серебряная капля 19 л</category>
+      <category id="102">Мирабель 19 л</category>
+      <category id="103">Кристальная 19 л</category>
+      <category id="104">Президиум 19 л</category>
+      <category id="105">Архыз 19 л</category>
+      <category id="106">Архызик 19 л</category>
+      <category id="107">Горная вершина 19 л</category>
+      <category id="108">Софийский ледник 19 л</category>
+      <category id="109">Домбай 19 л</category>
+      <category id="110">Пилигрим 19 л</category>
+      <category id="111">Кубай 19 л</category>
+      <category id="112">Бутыль из поликарбоната 19 л</category>
+      <category id="113">Помпы</category>
+      <category id="114">Сопутствующие товары</category>
+    </categories>
+    <offers>
+      <offer id="1001" available="true">
+        <categoryId>100</categoryId>
+        <name>1 БУТЫЛЬ - Горячий ключ</name>
+        <description>Артезианская питьевая вода первой категории</description>
+        <price>150</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/goryachiy_kluch.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1002" available="true">
+        <categoryId>100</categoryId>
+        <name>2 БУТЫЛИ - Горячий ключ (1 бут. - 130 руб.)</name>
+        <description>Артезианская питьевая вода первой категории</description>
+        <price>260</price>
+        <currencyId>RUR</currencyId>
+        <picture>http:http://com23.ru/mobile/goryachiy_kluch.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1003" available="true">
+        <categoryId>100</categoryId>
+        <name>3 БУТЫЛИ - Горячий ключ (1 бут. - 130 руб.)</name>
+        <description>Артезианская питьевая вода первой категории</description>
+        <price>390</price>
+        <currencyId>RUR</currencyId>
+        <picture>http:http://com23.ru/mobile/goryachiy_kluch.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1004" available="true">
+        <categoryId>100</categoryId>
+        <name>4 БУТЫЛИ - Горячий ключ (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода первой категории</description>
+        <price>400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http:http://com23.ru/mobile/goryachiy_kluch.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1005" available="true">
+        <categoryId>100</categoryId>
+        <name>5 БУТЫЛЕЙ - Горячий ключ (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода первой категории</description>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http:http://com23.ru/mobile/goryachiy_kluch.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1006" available="true">
+        <categoryId>100</categoryId>
+        <name>6 БУТЫЛЕЙ - Горячий ключ (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода первой категории</description>
+        <price>600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http:http://com23.ru/mobile/goryachiy_kluch.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1007" available="true">
+        <categoryId>100</categoryId>
+        <name>7 БУТЫЛЕЙ - Горячий ключ (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода первой категории</description>
+        <price>700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http:http://com23.ru/mobile/goryachiy_kluch.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1011" available="true">
+        <categoryId>101</categoryId>
+        <name>1 БУТЫЛЬ - Серебряная капля</name>
+        <description>Натуральная природная питьевая вода с ионами серебра</description>
+        <price>140</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/serebryanaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1012" available="true">
+        <categoryId>101</categoryId>
+        <name>2 БУТЫЛИ - Серебряная капля (1 бут. - 120 р.)</name>
+        <description>Натуральная природная питьевая вода с ионами серебра</description>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/serebryanaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1013" available="true">
+        <categoryId>101</categoryId>
+        <name>3 БУТЫЛИ - Серебряная капля (1 бут. - 120 р.)</name>
+        <description>Натуральная природная питьевая вода с ионами серебра</description>
+        <price>360</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/serebryanaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1014" available="true">
+        <categoryId>101</categoryId>
+        <name>4 БУТЫЛИ - Серебряная капля (1 бут. - 110 р.)</name>
+        <description>Натуральная природная питьевая вода с ионами серебра</description>
+        <price>440</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/serebryanaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1015" available="true">
+        <categoryId>101</categoryId>
+        <name>5 БУТЫЛЕЙ - Серебряная капля (1 бут. - 110 р.)</name>
+        <description>Натуральная природная питьевая вода с ионами серебра</description>
+        <price>550</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/serebryanaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1016" available="true">
+        <categoryId>101</categoryId>
+        <name>6 БУТЫЛЕЙ - Серебряная капля (1 бут. - 110 р.)</name>
+        <description>Натуральная природная питьевая вода с ионами серебра</description>
+        <price>660</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/serebryanaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1017" available="true">
+        <categoryId>101</categoryId>
+        <name>7 БУТЫЛЕЙ - Серебряная капля (1 бут. - 110 р.)</name>
+        <description>Натуральная природная питьевая вода с ионами серебра</description>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/serebryanaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1021" available="true">
+        <categoryId>102</categoryId>
+        <name>1 БУТЫЛЬ - Мирабель</name>
+        <description>Артезианская питьевая вода</description>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/mirabel.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1022" available="true">
+        <categoryId>102</categoryId>
+        <name>2 БУТЫЛИ - Мирабель (1 бут. - 110 р.)</name>
+        <description>Артезианская питьевая вода</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/mirabel.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1023" available="true">
+        <categoryId>102</categoryId>
+        <name>3 БУТЫЛИ - Мирабель (1 бут. - 110 р.)</name>
+        <description>Артезианская питьевая вода</description>
+        <price>330</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/mirabel.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1024" available="true">
+        <categoryId>102</categoryId>
+        <name>4 БУТЫЛИ - Мирабель (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода</description>
+        <price>400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/mirabel.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1025" available="true">
+        <categoryId>102</categoryId>
+        <name>5 БУТЫЛЕЙ - Мирабель (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода</description>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/mirabel.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1026" available="true">
+        <categoryId>102</categoryId>
+        <name>6 БУТЫЛЕЙ - Мирабель (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода</description>
+        <price>600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/mirabel.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1027" available="true">
+        <categoryId>102</categoryId>
+        <name>7 БУТЫЛЕЙ - Мирабель (1 бут. - 100 р.)</name>
+        <description>Артезианская питьевая вода</description>
+        <price>700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/mirabel.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1031" available="true">
+        <categoryId>103</categoryId>
+        <name>1 БУТЫЛЬ - Кристальная</name>
+        <description>Натуральная природная питьевая вода из артезианской скважины</description>
+        <price>130</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kristalnaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1032" available="true">
+        <categoryId>103</categoryId>
+        <name>2 БУТЫЛИ - Кристальная (1 бут. - 110 р.)</name>
+        <description>Натуральная природная питьевая вода из артезианской скважины</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kristalnaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1033" available="true">
+        <categoryId>103</categoryId>
+        <name>3 БУТЫЛИ - Кристальная (1 бут. - 110 р.)</name>
+        <description>Натуральная природная питьевая вода из артезианской скважины</description>
+        <price>330</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kristalnaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1034" available="true">
+        <categoryId>103</categoryId>
+        <name>4 БУТЫЛИ - Кристальная (1 бут. - 100 р.)</name>
+        <description>Натуральная природная питьевая вода из артезианской скважины</description>
+        <price>400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kristalnaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1035" available="true">
+        <categoryId>103</categoryId>
+        <name>5 БУТЫЛЕЙ - Кристальная (1 бут. - 100 р.)</name>
+        <description>Натуральная природная питьевая вода из артезианской скважины</description>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kristalnaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1036" available="true">
+        <categoryId>103</categoryId>
+        <name>6 БУТЫЛЕЙ - Кристальная (1 бут. - 100 р.)</name>
+        <description>Натуральная природная питьевая вода из артезианской скважины</description>
+        <price>600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kristalnaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1037" available="true">
+        <categoryId>103</categoryId>
+        <name>7 БУТЫЛЕЙ - Кристальная (1 бут. - 100 р.)</name>
+        <description>Натуральная природная питьевая вода из артезианской скважины</description>
+        <price>700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kristalnaya.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1041" available="true">
+        <categoryId>104</categoryId>
+        <name>1 БУТЫЛЬ - Президиум</name>
+        <description>Высококачественная питьевая вода премиум-класса</description>
+        <price>270</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/prezidium.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1042" available="true">
+        <categoryId>104</categoryId>
+        <name>2 БУТЫЛИ - Президиум (1 бут. - 250 р.)</name>
+        <description>Высококачественная питьевая вода премиум-класса</description>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/prezidium.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1043" available="true">
+        <categoryId>104</categoryId>
+        <name>3 БУТЫЛИ - Президиум (1 бут. - 250 р.)</name>
+        <description>Высококачественная питьевая вода премиум-класса</description>
+        <price>750</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/prezidium.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1044" available="true">
+        <categoryId>104</categoryId>
+        <name>4 БУТЫЛИ - Президиум (1 бут. - 230 р.)</name>
+        <description>Высококачественная питьевая вода премиум-класса</description>
+        <price>920</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/prezidium.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1045" available="true">
+        <categoryId>104</categoryId>
+        <name>5 БУТЫЛЕЙ - Президиум (1 бут. - 230 р.)</name>
+        <description>Высококачественная питьевая вода премиум-класса</description>
+        <price>1150</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/prezidium.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1046" available="true">
+        <categoryId>104</categoryId>
+        <name>6 БУТЫЛЕЙ - Президиум (1 бут. - 230 р.)</name>
+        <description>Высококачественная питьевая вода премиум-класса</description>
+        <price>1380</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/prezidium.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1047" available="true">
+        <categoryId>104</categoryId>
+        <name>7 БУТЫЛЕЙ - Президиум (1 бут. - 230 р.)</name>
+        <description>Высококачественная питьевая вода премиум-класса</description>
+        <price>1610</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/prezidium.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1051" available="true">
+        <categoryId>105</categoryId>
+        <name>1 БУТЫЛЬ - Архыз</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhiz.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1052" available="true">
+        <categoryId>105</categoryId>
+        <name>2 БУТЫЛИ - Архыз (1 бут. - 220 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>440</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhiz.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1053" available="true">
+        <categoryId>105</categoryId>
+        <name>3 БУТЫЛИ - Архыз (1 бут. - 220 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>660</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhiz.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1054" available="true">
+        <categoryId>105</categoryId>
+        <name>4 БУТЫЛИ - Архыз (1 бут. - 200 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhiz.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1055" available="true">
+        <categoryId>105</categoryId>
+        <name>5 БУТЫЛЕЙ - Архыз (1 бут. - 200 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>1000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhiz.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1056" available="true">
+        <categoryId>105</categoryId>
+        <name>6 БУТЫЛЕЙ - Архыз (1 бут. - 200 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>1200</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhiz.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1057" available="true">
+        <categoryId>105</categoryId>
+        <name>7 БУТЫЛЕЙ - Архыз (1 бут. - 200 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>1400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhiz.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1061" available="true">
+        <categoryId>106</categoryId>
+        <name>1 БУТЫЛЬ - Архызик</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>250</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhizik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1062" available="true">
+        <categoryId>106</categoryId>
+        <name>2 БУТЫЛИ - Архызик (1 бут. - 230 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>460</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhizik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1063" available="true">
+        <categoryId>106</categoryId>
+        <name>3 БУТЫЛИ - Архызик (1 бут. - 230 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhizik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1064" available="true">
+        <categoryId>106</categoryId>
+        <name>4 БУТЫЛИ - Архызик (1 бут. - 220 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>880</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhizik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1065" available="true">
+        <categoryId>106</categoryId>
+        <name>5 БУТЫЛЕЙ - Архызик (1 бут. - 220 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhizik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1066" available="true">
+        <categoryId>106</categoryId>
+        <name>6 БУТЫЛЕЙ - Архызик (1 бут. - 220 р.)                                                                                                                 </name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>1320</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhizik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1067" available="true">
+        <categoryId>106</categoryId>
+        <name>7 БУТЫЛЕЙ - Архызик (1 бут. - 220 р.)</name>
+        <description>Добывается на высоте 1507 м над уровнем моря на территории государственного тебердинского биосферного заповедника в одноименном поселке архыз</description>
+        <price>1540</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/arhizik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1071" available="true">
+        <categoryId>107</categoryId>
+        <name>1 БУТЫЛЬ - Горная вершина</name>
+        <description>Горная питьевая вода, добывается на высоте 1 100 м над уровнем моря из скважины №3 в поселке нижний архыз (карачаево-черкесская республика) на глубине 260 м.</description>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/gornaya_vershina.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1072" available="true">
+        <categoryId>107</categoryId>
+        <name>2 БУТЫЛИ - Горная вершина (1 бут. - 170 р.)</name>
+        <description>Горная питьевая вода, добывается на высоте 1 100 м над уровнем моря из скважины №3 в поселке нижний архыз (карачаево-черкесская республика) на глубине 260 м.</description>
+        <price>340</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/gornaya_vershina.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1073" available="true">
+        <categoryId>107</categoryId>
+        <name>3 БУТЫЛИ - Горная вершина (1 бут. - 170 р.)</name>
+        <description>Горная питьевая вода, добывается на высоте 1 100 м над уровнем моря из скважины №3 в поселке нижний архыз (карачаево-черкесская республика) на глубине 260 м.</description>
+        <price>510</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/gornaya_vershina.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1074" available="true">
+        <categoryId>107</categoryId>
+        <name>4 БУТЫЛИ - Горная вершина (1 бут. - 160 р.) </name>
+        <description>Горная питьевая вода, добывается на высоте 1 100 м над уровнем моря из скважины №3 в поселке нижний архыз (карачаево-черкесская республика) на глубине 260 м.</description>
+        <price>640</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/gornaya_vershina.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1075" available="true">
+        <categoryId>107</categoryId>
+        <name>5 БУТЫЛЕЙ - Горная вершина (1 бут. - 160 р.)</name>
+        <description>Горная питьевая вода, добывается на высоте 1 100 м над уровнем моря из скважины №3 в поселке нижний архыз (карачаево-черкесская республика) на глубине 260 м.</description>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/gornaya_vershina.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1076" available="true">
+        <categoryId>107</categoryId>
+        <name>6 БУТЫЛЕЙ - Горная вершина (1 бут. - 160 р.)</name>
+        <description>Горная питьевая вода, добывается на высоте 1 100 м над уровнем моря из скважины №3 в поселке нижний архыз (карачаево-черкесская республика) на глубине 260 м.</description>
+        <price>960</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/gornaya_vershina.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1077" available="true">
+        <categoryId>107</categoryId>
+        <name>7 БУТЫЛЕЙ - Горная вершина (1 бут. - 160 р.)</name>
+        <description>Горная питьевая вода, добывается на высоте 1 100 м над уровнем моря из скважины №3 в поселке нижний архыз (карачаево-черкесская республика) на глубине 260 м.</description>
+        <price>1120</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/gornaya_vershina.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      
+
+      <offer id="1081" available="true">
+        <categoryId>108</categoryId>
+        <name>1 БУТЫЛЬ - Софийский ледник</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>170</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/sofiyskiy_lednik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1082" available="true">
+        <categoryId>108</categoryId>
+        <name>2 БУТЫЛИ - Софийский ледник (1 бут. - 150 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>300</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/sofiyskiy_lednik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1083" available="true">
+        <categoryId>108</categoryId>
+        <name>3 БУТЫЛИ - Софийский ледник (1 бут. - 150 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/sofiyskiy_lednik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1084" available="true">
+        <categoryId>108</categoryId>
+        <name>4 БУТЫЛИ - Софийский ледник (1 бут. - 140 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/sofiyskiy_lednik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1085" available="true">
+        <categoryId>108</categoryId>
+        <name>5 БУТЫЛЕЙ- Софийский ледник (1 бут. - 140 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/sofiyskiy_lednik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1086" available="true">
+        <categoryId>108</categoryId>
+        <name>6 БУТЫЛЕЙ- Софийский ледник (1 бут. - 140 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>840</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/sofiyskiy_lednik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1087" available="true">
+        <categoryId>108</categoryId>
+        <name>7 БУТЫЛЕЙ- Софийский ледник (1 бут. - 10 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>980</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/sofiyskiy_lednik.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      
+
+      <offer id="1091" available="true">
+        <categoryId>109</categoryId>
+        <name>1 БУТЫЛЬ - Домбай</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>170</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/Dombay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1092" available="true">
+        <categoryId>109</categoryId>
+        <name>2 БУТЫЛИ - Домбай (1 бут. - 150 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>300</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/Dombay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1093" available="true">
+        <categoryId>109</categoryId>
+        <name>3 БУТЫЛИ - Домбай (1 бут. - 150 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/Dombay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1094" available="true">
+        <categoryId>109</categoryId>
+        <name>4 БУТЫЛИ - Домбай (1 бут. - 140 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/Dombay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1095" available="true">
+        <categoryId>109</categoryId>
+        <name>5 БУТЫЛЕЙ - Домбай (1 бут. - 140 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/Dombay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1096" available="true">
+        <categoryId>109</categoryId>
+        <name>6 БУТЫЛЕЙ - Домбай (1 бут. - 140 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>840</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/Dombay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1097" available="true">
+        <categoryId>109</categoryId>
+        <name>7 БУТЫЛЕЙ - Домбай (1 бут. - 140 р.)</name>
+        <description>Питьевая вода высшей категории</description>
+        <price>980</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/Dombay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      
+
+      <offer id="1101" available="true">
+        <categoryId>110</categoryId>
+        <name>1 БУТЫЛЬ - Пилигрим</name>
+        <description>Талая ледниковая вода, обогащенная легким водородом</description>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/piligrim.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1102" available="true">
+        <categoryId>110</categoryId>
+        <name>2 БУТЫЛИ - Пилигрим (1 бут. - 170 р.)</name>
+        <description>Талая ледниковая вода, обогащенная легким водородом</description>
+        <price>340</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/piligrim.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1103" available="true">
+        <categoryId>110</categoryId>
+        <name>3 БУТЫЛИ - Пилигрим (1 бут. - 170 р.)</name>
+        <description>Талая ледниковая вода, обогащенная легким водородом</description>
+        <price>510</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/piligrim.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1104" available="true">
+        <categoryId>110</categoryId>
+        <name>4 БУТЫЛИ - Пилигрим (1 бут. - 170 р.)</name>
+        <description>Талая ледниковая вода, обогащенная легким водородом</description>
+        <price>680</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/piligrim.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1105" available="true">
+        <categoryId>110</categoryId>
+        <name>5 БУТЫЛЕЙ - Пилигрим (1 бут. - 170 р.)</name>
+        <description>Талая ледниковая вода, обогащенная легким водородом</description>
+        <price>850</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/piligrim.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1106" available="true">
+        <categoryId>110</categoryId>
+        <name>6 БУТЫЛЕЙ - Пилигрим (1 бут. - 170 р.)</name>
+        <description>Талая ледниковая вода, обогащенная легким водородом</description>
+        <price>1020</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/piligrim.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1107" available="true">
+        <categoryId>110</categoryId>
+        <name>7 БУТЫЛЕЙ - Пилигрим (1 бут. - 170 р.)</name>
+        <description>Талая ледниковая вода, обогащенная легким водородом</description>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/piligrim.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      
+
+      <offer id="1111" available="true">
+        <categoryId>111</categoryId>
+        <name>1 БУТЫЛЬ - Кубай</name>
+        <description>Питьевая вода «Кубай» – одна из самых популярных вод, добываемых в кавказских горах.</description>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kubay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1112" available="true">
+        <categoryId>111</categoryId>
+        <name>2 БУТЫЛИ - Кубай (1 бут. - 150 р.)</name>
+        <description>Питьевая вода «Кубай» – одна из самых популярных вод, добываемых в кавказских горах.</description>
+        <price>300</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kubay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>.
+      <offer id="1113" available="true">
+        <categoryId>111</categoryId>
+        <name>3 БУТЫЛИ - Кубай (1 бут. - 150 р.)</name>
+        <description>Питьевая вода «Кубай» – одна из самых популярных вод, добываемых в кавказских горах.</description>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kubay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1114" available="true">
+        <categoryId>111</categoryId>
+        <name>4 БУТЫЛИ - Кубай (1 бут. - 130 р.)</name>
+        <description>Питьевая вода «Кубай» – одна из самых популярных вод, добываемых в кавказских горах.</description>
+        <price>520</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kubay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1115" available="true">
+        <categoryId>111</categoryId>
+        <name>5 БУТЫЛЕЙ - Кубай (1 бут. - 130 р.)</name>
+        <description>Питьевая вода «Кубай» – одна из самых популярных вод, добываемых в кавказских горах.</description>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kubay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1116" available="true">
+        <categoryId>111</categoryId>
+        <name>6 БУТЫЛЕЙ - Кубай (1 бут. - 130 р.)</name>
+        <description>Питьевая вода «Кубай» – одна из самых популярных вод, добываемых в кавказских горах.</description>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kubay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+      <offer id="1117" available="true">
+        <categoryId>111</categoryId>
+        <name>7 БУТЫЛЕЙ - Кубай (1 бут. - 130 р.)</name>
+        <description>Питьевая вода «Кубай» – одна из самых популярных вод, добываемых в кавказских горах.</description>
+        <price>910</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/kubay.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+
+      <offer id="1121" available="true">
+        <categoryId>112</categoryId>
+        <name>Оборотная тара</name>
+        <description></description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/mobile/tara.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+      <offer id="1131" available="true">
+        <categoryId>113</categoryId>        
+        <name>Помпа Ecologic</name>
+        <description></description>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/storage/photo/resized/xy_350x486/b/rlvd20gckjyhk58_247d684a.jpg</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+      <offer id="1141" available="true">
+        <categoryId>114</categoryId>         
+        <name>Одноразовый стакан ИНТЕКО, 200 шт.</name>
+        <description></description>
+        <price>200</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://com23.ru/storage/photo/resized/xy_350x486/f/ewx31g8dnjilzve_3da85c29.png</picture>
+        <store>true</store>
+        <delivery>true</delivery>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>

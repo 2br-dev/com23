@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Подключение JS-скриптов</name>
+        <description multilanguage="true">Позволяет разместить коды счетчиков, online консультантов и другие JS скипты</description>
+        <version>3.0.0</version>
+        <author>ReadyScript lab.</author>
+    </defaultValues>
+</config>

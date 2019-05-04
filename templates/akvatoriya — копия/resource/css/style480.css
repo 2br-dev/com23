@@ -1,0 +1,455 @@
+@media only screen and (min-width: 480px) and (max-width: 639px){
+     .viewport{
+        max-width: 480px;
+    }
+
+    .box {
+        padding: 0 5px;
+    }
+
+    .bannerSlider{
+        display: none;
+    }
+    .slider-shadow{
+        display: none;
+    }
+    .advantages{
+        text-align: center;
+    }
+    .advantages td { 
+    vertical-align: top; 
+    width: 90%; 
+    }
+
+    .adv-text {
+        text-align: left;
+    }
+
+    .advantages-item{
+        width: 90%;
+        margin: 15px auto;
+    }
+
+    .deliveryBlock .descr ul {
+        margin-left: 20px;
+    }
+
+     .deliveryBlock .image {
+        width: 40%;
+        height: auto;
+        margin-bottom: 10px;
+        margin-right: 25px;
+    }
+
+    header .krasnodarContacts {
+        border-bottom: none;
+        border-right: 2px solid #002095;
+        padding-right: 10px;
+        width: auto;
+        padding-left: 10px; 
+    }
+
+    header .logo {
+        width: auto;
+    }    
+
+    header .krasnodarContacts__phone1 {
+        font-size: 14px;
+    }
+
+    header .krasnodarContacts__phone2 {
+        font-size: 14px;
+    }
+
+    header .anapaContacts__title { font-size: 14px; margin-bottom: 3px; }
+    header .anapaContacts__phone1 { font-size: 12px; font-weight: bold; margin-bottom: 5px; }
+    header .anapaContacts__phone2 { font-size: 12px; font-weight: bold; }
+
+    .category {
+        max-width: 480px;                
+        margin: 0 auto;
+    }
+
+    .category div.wrap-category {
+        display: none;
+    }
+
+    .category .wrap-categoryMobile {
+        display: block;
+    }
+
+    .category div.wrap-category div.first-ur a {
+        padding: 0 2px;
+    }
+
+    header .headerContacts .anapaContacts {
+        left: 0 !important;
+        top: 90px;
+    }
+
+    header .headerContacts .krasnodarContacts {
+        border-right: none !important;
+        border-bottom: 2px solid #002095;
+        padding-bottom: 10px;
+    }
+
+
+    header .menu {
+        left: 5%;
+        display: none;
+    }
+
+    header .logo {
+        margin-top: 30px;
+    }   
+
+    header .searchBlock {
+        display: block;
+        position: absolute;
+        bottom: 30px;
+        left: 5%;
+    }
+
+    header .anapaContacts {
+        border-left: none;
+        padding-left: 0;
+        margin-left: 0;
+        position: absolute;
+        left: 65%;
+        top: 0px;
+
+    }
+
+    header .userBlock {
+        right: 5%;
+        top: 80px;        
+    }
+
+    .recall {
+        top: 65px;
+        right: 10px;
+    }
+
+   footer .footzone {
+        width: 100%;
+        max-width: 470px;
+        padding-bottom: 150px;
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    footer .headerContacts {
+        right: 2px;
+        width: 170px;
+        overflow: hidden;
+    }
+
+    footer .user-agreement {
+       display: none;
+    }
+
+    footer {
+        height: 240px;
+    }
+
+    footer .headerContacts .krasnodarContacts {
+        float: none;
+        border-right: none;
+        border-bottom: 2px solid #002095;
+        padding-bottom: 10px;
+        margin-bottom: 5px;
+    }
+
+    footer .footer-slogan {
+        width: 205px;
+    }
+
+   header {
+        height: 220px;
+    }
+
+    div.checkout header {
+        height: 230px !important;
+    }
+
+    .news li {
+        float: none;
+        width: 90%;
+        margin: 25px auto 0 auto;
+    }
+
+    .chat-help .chat-help-btn.chat-help-btn-left {
+        display: none;
+    }
+
+    .productList .products li {
+        width: 50%;
+    }
+
+    .lastViewed {
+        display: none;
+    }
+
+    .lastViewedMobile {
+        display: block;
+    }
+
+    .productList .viewAs {        
+        top: -40px;
+    }
+
+    .text-forceo {
+        width: 100%;
+    }
+
+    .checkoutSteps {
+        margin-top: 200px;
+        float: left;
+    }
+
+    .checkout .yourcart {
+        top: 120px;
+        right: 59%;
+    } 
+
+    .checkout .yourcart .icon {
+        float: none;
+        padding-left: 50px;
+        background: url(../img/floatcart.png) bottom left no-repeat;
+    }
+
+    .voda-anapa {
+        top: -30px;
+        right: 40%;
+    }
+
+    .text-forceo {
+        display: none;
+    } 
+
+    .fixedCart .checkout {
+        margin-right: 5px;
+    } 
+
+    .fixedCart .feedback {
+        text-indent: -99999px;
+        margin-left: 7px;
+    } 
+
+    span.text {display: none;}
+
+    .fixedCart .cart .openCart {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .fixedCart .cart {
+        width: auto;
+        float: none;
+        position: absolute;
+        right: 100px;
+        padding-left: 5px;
+    }
+
+    .fixedCart .floatCompare {
+        margin-right: 0px;
+        float: none;
+        position: absolute;
+        left: 25%;
+    }
+
+    .fixedCart .floatCompare .doCompare {
+        margin-left: 5px;
+        margin-right: 0px;
+    }
+
+    .headerMenuMobileBlock {
+        display: block;
+    }
+
+    .right20 { display: none; }
+
+    .left75 {
+        width: 100%;
+        border-right: none;
+        float: none;
+    }
+
+    #mirvodi-block3 p { width: 100%; padding: 0 15px; margin-bottom: 15px; }
+    #mirvodi-block4 .krasnodarShop__item {
+        width: 100%;
+    }
+
+    #mirvodi-block1 {
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    #mirvodi-block1 p {
+        width: 100% !important;
+        text-align: left;
+    }
+
+    #mirvodi-block1 img {
+        float: none !important;
+        margin-bottom: 10px; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: auto;
+    }
+
+    .address-link {
+        top: -30px;
+        max-width: 300px;
+    }
+
+    .address-link a {
+        font-size: 14px !important;
+    }
+
+    .productInfo {
+        width: 480px;
+        float: none;
+    }
+
+    .productInfo .price {
+        margin-left: 50px;
+    }
+
+    .productInfo .buttons {
+        margin-right: 30px;
+    }
+
+    .attention-image {
+        margin-bottom: 15px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .attention-service {
+        margin-bottom: 10px;
+        margin-left: 22%;
+    }
+
+    .productTabs .properties .key {
+        width: auto;
+    }
+
+    .attention-instruction {
+        margin-left: 30%;
+    }
+
+    .mobile-application {
+        margin-top: 2px;
+    }
+
+    .block-text .block-tovar {
+        padding: 0 5px;
+    }
+
+    .protovary__image {
+        width: 80px;
+        margin-right: 20px;
+    }
+
+    .protovary__anons {
+        width: 350px;
+    }
+
+    .menu-okompanii {
+        width: 100%;
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .menu-okompanii ul {
+        text-align: center;
+    }
+
+    .menu-okompanii ul li {
+        display: inline-block;
+        vertical-align: top;
+        margin: 10px;
+    }
+
+    .okompanii__block1 {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 5px;
+        margin-right: 0px;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .okompanii__block2 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .okompanii__waterList {
+        position: relative;
+        text-align: center;
+        width: 100%;
+        right: 0;
+        top: 0;
+    }
+
+    .okompanii__waterList ul {
+        display: inline-block;
+        margin-right: 25px;
+        vertical-align: top;
+    }
+
+    .okompanii__block3 {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    .okompanii__block4 {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .okompanii__block5 {
+        width: 100%;
+    }
+
+    .okompanii__block6 {
+        padding: 30px 10px;
+    }
+
+    .okompanii__block6_1 {
+        width: 80%;
+    }
+
+    .okompanii__block6 ul {
+        padding: 0 0 0 0;
+    }
+
+    .block100 { width: 100%; }
+
+    .no-service { padding-left: 20px !important; padding-right: 20px !important; }
+    .dostavka__block1 { width: 100%; }
+    .payment__item { width: 100%; }
+    .before-order { padding: 20px; }
+    .tab {position: relative; width: 100%;}
+    .orderTable {max-width: 293px; width: 100%;}
+    .themeTable tbody td {padding: 8px; border: 1px solid grey;}
+    .personalAccount .balance span.text {display: block !important;}
+    .vertItems .info .line .price {padding-top: 15px;}
+    .vertItems .price .help {margin-right: 0;}
+    .checkoutBox .coItems {width: 100%;}
+    .checkoutBox .coInfo {width: 100%;}
+    .Shop__info {max-width: 470px;}
+    .w50 { width: 100%; padding: 10px 5px; }
+    .checkout .userType label {margin-right: 0; width: 90%;}
+    .userRegister input {width: 100% !important;}
+    .cartTableAfter .price {width: auto;}
+    .delivery__block1__item {width: 100%; margin-bottom: 15px;}
+    .delivery__block3__item {width: 100%; margin-bottom: 15px;}
+    .delivery__block6__item {width: 100%; margin-bottom: 15px;}
+    .delivery__block6__item ul {padding-left: 100px;}
+}

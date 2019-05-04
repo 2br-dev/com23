@@ -1,0 +1,326 @@
+@media only screen and (min-width: 480px) and (max-width: 639px){
+     .viewport{
+        max-width: 470px;
+        margin: 0 auto;
+    }
+
+    .box {
+        padding: 0 5px;
+    }
+
+    .bannerSlider{
+        display: none;
+    }
+    .slider-shadow{
+        display: none;
+    }
+    .advantages{
+        max-width: 480px;
+        text-align: center;
+    }
+    .advantages td { 
+    vertical-align: top; 
+    width: 90%; 
+    }
+
+    .advantages{
+        max-width: 480px;
+    }
+
+    .adv-text {
+        text-align: left;
+    }
+
+    .advantages-item{
+        width: 90%;
+        margin: 15px auto;
+    }
+
+    .deliveryBlock .descr ul {
+        padding-left: 50px;
+    }
+
+    header .krasnodarContacts {
+        border-bottom: none;
+        border-right: 2px solid #002095;
+        padding-right: 10px;
+        width: auto;
+        padding-left: 10px; 
+    }
+
+    header .logo {
+        width: auto;
+    }    
+
+    header .krasnodarContacts__phone1 {
+        font-size: 14px;
+    }
+
+    header .krasnodarContacts__phone2 {
+        font-size: 14px;
+    }
+
+    header .anapaContacts__title { font-size: 14px; margin-bottom: 3px; }
+    header .anapaContacts__phone1 { font-size: 12px; font-weight: bold; margin-bottom: 5px; }
+    header .anapaContacts__phone2 { font-size: 12px; font-weight: bold; }
+
+    .category {
+        max-width: 480px;                
+        margin: 0 auto;
+    }
+
+    .category div.wrap-category {
+        display: none;
+    }
+
+    .category .wrap-categoryMobile {
+        display: block;
+    }
+
+    .category div.wrap-category div.first-ur a {
+        padding: 0 2px;
+    }
+
+    header .headerContacts .anapaContacts {
+        left: 0 !important;
+        top: 90px;
+    }
+
+    header .headerContacts .krasnodarContacts {
+        border-right: none !important;
+        border-bottom: 2px solid #002095;
+        padding-bottom: 10px;
+    }
+
+
+    header .menu {
+        left: 5%;
+        display: none;
+    }
+
+    header .logo {
+        margin-top: 30px;
+    }   
+
+    header .searchBlock {
+        display: block;
+        position: absolute;
+        bottom: 50px;
+        left: 5%;
+    }
+
+    header .anapaContacts {
+        border-left: none;
+        padding-left: 0;
+        margin-left: 0;
+        position: absolute;
+        left: 65%;
+        top: 0px;
+
+    }
+
+    header .userBlock {
+        right: 5%;
+        top: 80px;        
+    }
+
+    .recall {
+        top: 65px;
+        right: 10px;
+    }
+
+   footer .footer-logo {
+        float: none;
+        left: 25%;
+    }
+
+    footer .footzone {
+        width: 100%;
+        max-width: 410px;
+        padding-bottom: 150px;
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    .menu-footer {
+        padding-top: 15px;
+        width: 100%;
+    }
+
+    .menu-footer-item {
+        font-size: 1.19rem;
+    }
+
+    footer .menu-footer {
+        top: 55px;
+    }
+
+    footer .menu-footer ul li {
+        margin: 0 15px;
+    }
+
+    footer .slogan {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+     footer {
+        height: 250px;
+        padding-bottom: 280px;
+    }
+
+    .footer-email {
+        margin-top: 15px;
+    }
+
+    footer .footer-contacts {
+        position: relative;
+    }
+
+   header {
+        height: 220px;
+    }
+
+    div.checkout header {
+        height: 320px !important;
+    }
+
+    .news li {
+        float: none;
+        width: 90%;
+        margin: 25px auto 0 auto;
+    }
+
+    .chat-help .chat-help-btn.chat-help-btn-left {
+        display: none;
+    }
+
+    .productList .products li {
+        width: 50%;
+    }
+
+    .lastViewed {
+        display: none;
+    }
+
+    .lastViewedMobile {
+        display: block;
+    }
+
+    .productList .viewAs {        
+        top: -40px;
+    }
+
+    .text-forceo {
+        width: 100%;
+    }
+
+    .checkoutSteps {
+        margin-top: 200px;
+        float: left;
+    }
+
+    .checkout .yourcart {
+        top: 120px;
+        right: 59%;
+    } 
+
+    .checkout .yourcart .icon {
+        float: none;
+        padding-left: 50px;
+        background: url(../img/floatcart.png) bottom left no-repeat;
+    }
+
+    .voda-anapa {
+        top: -30px;
+        right: 40%;
+    }
+
+    .text-forceo {
+        display: none;
+    } 
+
+    .fixedCart .checkout {
+        margin-right: 5px;
+    } 
+
+    .fixedCart .feedback {
+        text-indent: -99999px;
+        margin-left: 7px;
+    } 
+
+    span.text {display: none;}
+
+    .fixedCart .cart .openCart {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .fixedCart .cart {
+        width: auto;
+        float: none;
+        position: absolute;
+        right: 100px;
+        padding-left: 5px;
+    }
+
+    .fixedCart .floatCompare {
+        margin-right: 0px;
+        float: none;
+        position: absolute;
+        left: 25%;
+    }
+
+    .fixedCart .floatCompare .doCompare {
+        margin-left: 5px;
+        margin-right: 0px;
+    }
+
+    .headerMenuMobileBlock {
+        display: block;
+    }
+
+    .right20 { display: none; }
+
+    .left75 {
+        width: 100%;
+        border-right: none;
+        float: none;
+    }
+
+    #mirvodi-block3 p { width: 100%; padding: 0 15px; margin-bottom: 15px; }
+    #mirvodi-block4 .krasnodarShop__item {
+        width: 100%;
+    }
+
+    #mirvodi-block1 {
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    #mirvodi-block1 p {
+        width: 100% !important;
+        text-align: left;
+    }
+
+    #mirvodi-block1 img {
+        float: none !important;
+        margin-bottom: 10px; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: auto;
+    }
+
+    .address-link {
+        top: -30px;
+        max-width: 300px;
+    }
+
+    .address-link a {
+        font-size: 14px !important;
+    }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">301 редиректы</name>
+        <description multilanguage="true">Модуль позволяет настроить 301 редиректы со старых адресов на новые.</description>
+        <version>3.0.2</version>
+        <author>ReadyScript lab.</author>
+    </defaultValues>
+</config>

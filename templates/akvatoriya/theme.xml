@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme scriptType="shop" scriptMajorVersion="2" themeType="pc">
+    <general>
+        <author>ReadyScript lab.</author>
+        <name>Акватория</name>
+        <description>Адаптивная тема, созданная без использования сетки</description>
+        <version>1.0.0.17</version>
+    </general>
+    <options>
+        <group name="Основные">
+            <option name="enable_one_click_cart" type="checkbox">
+                <description>Включить заказ в 1 клик в корзине</description>
+                <default>1</default>
+            </option>            
+        </group>
+    </options>    
+</theme>

@@ -1,0 +1,4 @@
+<project name="sberbankac" default="build" basedir=".">
+    <import file="../common.xml"/>
+    <property name="name" value="sberbankacpayment" />
+</project>

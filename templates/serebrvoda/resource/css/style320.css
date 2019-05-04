@@ -1,0 +1,701 @@
+@media only screen and (min-width: 320px) and (max-width: 479px){
+     .viewport{
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    .box {
+        padding: 20px 5px 10px 5px;
+    }
+
+    .bannerSlider{
+        display: none;
+    }
+
+    .header-menu {
+        width: auto;
+        padding-top: 5px;
+        top: 95%;
+        left: 8%;
+    } 
+
+    .headerMenuMobile__link {
+        color: #1f3fa5;
+        box-sizing: border-box;
+        padding: 2px 4px;
+        border: solid 2px #1f3fa5;
+        border-radius: 10px;
+    }
+
+     header .userBlock {
+        right: 5%;
+        top: 100%; 
+        padding-top: 0px;       
+    }
+
+    .header__regim {
+        margin-right: 25px;
+        padding-left: 15px;
+    }
+
+     header {
+        height: 250px;
+        box-shadow: none;
+    }
+
+    .main_text_delivery {
+        padding-top: 0px;
+    }
+
+    .advantages {
+        padding: 0;
+    }
+
+    .advantages-item{
+        width: 95%;
+        margin: 0px auto;
+        padding-left: 0;
+    }
+
+    .category {
+        box-shadow: 0 0 20px rgba(180,180,180,1);
+        max-width: 320px;                
+        margin: 0 auto;
+    }
+
+    .category .wrap-categoryMobile {
+        display: block;
+        height: 40px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .categoryMobile__link {
+        line-height: 42px;
+    }
+
+     .header__company-info {
+        margin-top: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        border-bottom: 1px solid #1f3fa5;
+        padding-bottom: 10px;
+        width: 100%;
+        -webkit-box-sizing: border-box;
+           -moz-box-sizing: border-box;
+                box-sizing: border-box;
+    }
+
+    .advantages p.adv-img {
+        float: left;
+        display: block;
+        width: auto;
+    }
+
+    .advantages p.adv-title {
+        float: left;
+        display: block;
+        width: auto;
+    }
+
+    .periody__text {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .periody__time {
+        width: 100%;
+        text-align: center;
+    }
+
+    .mainContent {
+        margin: 10px auto 25px;
+    }
+
+    #sliderVoda .products, #sliderKuler .products {
+        padding-left: 0px;
+    }
+
+    .amountBlock {
+        margin-left: 0px;
+    }
+
+    #sliderVoda .amountBlock {
+        margin-left: 0;
+    }
+
+    #sliderVoda .slick-prev {
+        bottom: -95px;
+        left: 20%;
+    }
+
+    #sliderVoda .slick-next {
+        bottom: -95px;
+        right: 20%;
+    }
+
+    .main__info, .kuler__info {
+        margin-top: 60px;
+    }
+
+    .main__text, .kuler__text {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .main__text_desc {
+        width: 100%;
+    }
+
+    .main__text img {
+        display: none;
+    }
+
+    .zakaz__text, .kuler__assortiment {
+        width: 100%;
+    }
+
+    .main_text_block {
+        padding-top: 30px;
+    }
+
+    footer .footer-logo {
+        float: none;
+        left: 17%;
+    }
+
+    footer .footzone {
+        width: 100%;
+        max-width: 320px;
+        padding-bottom: 150px;
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    .menu-footer {
+        padding-top: 15px;
+        width: 100%;
+    }
+
+    .menu-footer-item {
+        font-size: 1.19rem;
+    }
+
+    footer .menu-footer {
+        top: 55px;
+    }
+
+    footer .menu-footer ul li {
+        margin: 0 5px;
+    }
+
+    footer .slogan {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+     footer {
+        height: 250px;
+        padding-bottom: 280px;
+    }
+
+    .footer-email {
+        margin-top: 15px;
+    }
+
+    footer .footer-contacts {
+        position: relative;
+    }
+
+    .footer-contacs__address {
+        margin-right: 0;
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .fixedCart .up {
+        width: 20px;
+        height: 40px;
+        background-size: contain;
+        margin-bottom: 0;
+        
+    }
+
+    .fixedCart .floatCompare .doCompare {
+        width: 30px;
+        height: 30px;
+        -webkit-background-size: contain;
+             -o-background-size: contain;
+                background-size: contain;
+        margin-top: 0;
+        margin-left: 5px;
+        margin-right: 0px;
+    }
+
+     .fixedCart .cart .openCart {
+        margin-right: 0px;
+        margin-left: 0px;
+        width: 30px;
+        height: 30px;
+        -webkit-background-size: contain;
+             -o-background-size: contain;
+                background-size: contain;
+        margin-top: 0;
+        padding-left: 10px;
+    }
+
+     .fixedCart .cart {
+        width: auto;
+        float: none;
+        position: absolute;
+        right: 100px;
+        padding-left: 5px;
+        margin-right: 0px;
+        line-height: 30px;
+    }
+
+     .fixedCart .cart .floatCartPrice { margin-left: 0px; line-height: 0; }
+
+     .fixedCart .checkout {
+         line-height: 20px;
+         font-size: 8px;
+         margin-right: 5px;
+         margin-top:3px;
+     }
+
+    .sliderVoda .slick-prev {
+        left: 10%;
+        bottom: -90px;
+    }
+
+    .sliderVoda .slick-next {
+        right: 10%;
+        bottom: -90px;
+    }
+
+    .products li .image {
+        width: 40%;
+    }
+
+    ul.products {
+        width: 100%;
+    }
+
+    .productList .products li {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .products li .reserve, .products li .addToCart {
+        bottom: -10%;
+    }
+
+    .compare, .compare {
+        left: 30px;
+    }
+
+    .cartTableAfter .price {
+        width: auto;
+    }
+
+    .cartPage .clearCart {
+        position: relative;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .cartSubmit {
+        position: relative;
+        float: right;
+        margin-top: 20px;
+    }
+
+    .cartPage .actionLine {
+        margin-bottom: 5px;
+    }
+
+    .infoLine {
+        padding-top: 10px;
+    }
+
+    .infoLine__delivery {
+        width: 100%;
+    }
+
+    .infoLine__info {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 15px;
+        border-top: 2px solid #b60000;
+    }
+
+    .cartTablePage .image {
+        width: 35px;
+        padding-left: 0;
+    }
+
+    .cartTablePage thead td {
+        font-size: 1.2em;
+    }
+
+    .cartTablePage .title {
+        padding: 10px;
+    }
+
+    .checkout .userType label {
+        width: 90%;
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+
+    .formStyle .inline {
+        margin-right: 0;
+    }
+
+    .checkout .formStyle input[type='text'] {
+        width: 100% !important;
+    }
+
+    .checkout .logo {
+        width: auto;
+        margin-top: 0;
+        margin-left: 20%;
+    }
+
+    .checkout header .mainContent {
+        height: 200px;
+    }
+
+    .checkout .yourcart {
+        top: 95%;
+        right: 0;
+        width: 65%;
+    } 
+
+    .checkout .yourcart .icon {
+        float: none;
+        padding-left: 35px;
+        background: url(../img/floatcart.png) bottom left no-repeat;
+        display: inline-block;
+        margin-right: 0;
+    }
+
+    .checkoutBox .coItems {
+        float: none;
+        width: 100%;
+    }
+
+    .checkoutBox .coInfo {
+        float: none;
+        width: 100%;
+    }
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    .deliveryBlock .descr ul {
+        padding-left: 20px;
+    }
+
+    .adv-text {
+        text-align: left;
+    }
+
+    
+
+    header .krasnodarContacts {
+        border-right: none;
+        border-bottom: 2px solid #002095;
+        padding-bottom: 10px; 
+    }
+
+    
+
+    .category div.wrap-category {
+        display: none;
+    }
+
+    
+    .category div.wrap-category div.first-ur a {
+        padding: 0 2px;
+    }
+
+    header .headerContacts .anapaContacts {
+        left: 0 !important;
+    }
+
+    header .headerContacts {
+        left: 50%;
+        width: auto;
+    }
+
+    header .logo {
+        width: auto;
+        margin-top: 0px;
+        margin-left: 20%;
+    }
+
+    header .krasnodarContacts {
+        width: auto;
+        padding-left: 10px;
+    }
+
+    header .krasnodarContacts__phone1 {
+        font-size: 14px;
+    }
+
+    header .krasnodarContacts__phone2 {
+        font-size: 14px;
+    }
+
+    header .menu {
+        left: 5%;
+        display: none;
+    } 
+
+    header .searchBlock {
+        display: block;
+        position: absolute;
+        bottom: 40px;
+        left: 5%;
+    }
+
+    header .anapaContacts {
+        border-left: none;
+        padding-left: 0;
+        margin-left: 0;
+        position: absolute;
+        left: 52%;
+        top: 75px;
+        width: auto;
+    }
+
+    header .anapaContacts__title { font-size: 14px; margin-bottom: 3px; }
+    header .anapaContacts__phone1 { font-size: 12px; font-weight: bold; margin-bottom: 5px; }
+    header .anapaContacts__phone2 { font-size: 12px; font-weight: bold; }
+
+   
+
+    .recall {
+        top: 85px;
+        right: 5px;
+        text-indent: -99999px;        
+    }
+
+    .recall a {
+        width: 37px;
+        background: url(../img/recall-mobile.jpg) no-repeat top;
+    }
+
+    .recall a:hover { background: url(../img/recall-mobile.jpg) no-repeat bottom; color: #ffffff; }
+
+    .checkoutSteps .item {
+        width: 70px;
+    }
+
+   
+
+    footer .headerContacts {
+        right: 2px;
+        width: 230px;
+        overflow: hidden;
+    }
+
+    footer .user-agreement {
+       display: none;
+    }
+
+   
+
+    footer .headerContacts .krasnodarContacts {
+        float: left;
+        border-bottom: none;
+        border-right: 2px solid #002095;
+        padding-right: 5px;
+        width: auto;
+        margin-right: 5px;       
+    }
+
+    footer .krasnodarContacts__title { font-size: 12px; margin-bottom: 1px; }
+    footer .krasnodarContacts__phone1 { font-size: 14px; font-weight: bold; margin-bottom: 3px; }
+    footer .krasnodarContacts__phone2 { font-size: 14px; font-weight: bold; }
+
+    footer .anapaContacts__title { font-size: 12px; margin-bottom: 1px; }
+    footer .anapaContacts__phone1 { font-size: 10px; font-weight: bold; margin-bottom: 3px; }
+    footer .anapaContacts__phone2 { font-size: 10px; font-weight: bold; }
+
+    footer .footer-slogan {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto; 
+        text-align: center;
+    }
+
+    
+
+    footer .social {
+        height: auto;
+        top: 155px;
+    }
+
+   
+
+    .news li {
+        float: none;
+        width: 90%;
+        margin: 25px auto 0 auto;
+    }
+
+    .chat-help .chat-help-btn.chat-help-btn-left {
+        display: none;
+    }
+
+    
+
+    .lastViewed {
+        display: none;
+    }
+
+    .lastViewedMobile {
+        display: block;
+    }
+
+    .productList .viewAs {        
+        top: -40px;
+    }
+
+    .text-forceo {
+        width: 100%;
+    }
+
+    .checkoutSteps {
+        margin-top: 180px;
+        float: left;
+    }
+
+    
+
+    .voda-anapa {
+        top: -30px;
+        right: 20%;
+    }
+
+    .voda-anapa a {
+        font-size: 12px;
+    }
+
+    .text-forceo {
+        display: none;
+    } 
+
+   
+    .fixedCart .feedback {
+        display: none;
+    } 
+
+    span.text {display: none;}
+
+   
+
+   
+    .fixedCart .floatCompare {
+        margin-right: 0px;
+        float: none;
+        position: absolute;
+        left: 18%;
+    }
+
+    
+
+    .headerMenuMobileBlock {
+        display: block;
+    }
+
+    
+
+    .fixedCart .floatCompare .compareItemsCount, .fixedCart .cart .floatCartAmount { display: none; }
+   
+
+    .right20 { display: none; }
+
+    .left75 {
+        width: 100%;
+        border-right: none;
+        float: none;
+    }
+
+    #mirvodi-block3 p { width: 100%; padding: 0 15px; margin-bottom: 15px; }
+    #mirvodi-block4 .krasnodarShop__item {
+        width: 100%;
+    }
+
+    #mirvodi-block1 {
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    #mirvodi-block1 p {
+        width: 100% !important;
+        text-align: left;
+    }
+
+    #mirvodi-block1 img {
+        float: none !important;
+        margin-bottom: 10px; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: auto;
+    }
+
+    .address-link {
+        top: -30px;
+        max-width: 300px;
+    }
+
+    .address-link a {
+        font-size: 14px !important;
+    }
+
+   
+}

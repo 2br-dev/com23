@@ -1,0 +1,667 @@
+#order-form{
+    padding-bottom: 40px;
+}
+
+form .inloading{
+    opacity: 0.3;
+    filter: Alpha(50);
+}
+
+.warehouseBlock .title{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.onePageProductsBlock .cartInfo{
+    margin-right: 0px;
+}
+
+.t-order_contact-information,
+.t-order_hipment,
+.t-order_method-of-payment,
+.t-order_comment-to-shipment {
+    background-color: #fff;
+    padding: 15px 30px;
+    margin-bottom: 29px;
+}
+
+.t-order h3 {
+    font-family: "UbuntuMedium";
+}
+
+.table-underlined {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.table-underlined-text td {
+    padding: 6px 0;
+}
+
+.table-underlined-text td:nth-child(2) {
+    padding-left: 10px;
+}
+
+.form-style .form-group {
+    margin: 15px 0 30px;
+    width: 100%;
+}
+
+.link-white, .link-one-click {
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 30px;
+    color: #ffac00;
+    margin: 4px 9px;
+    padding: 7px 11px;
+}
+
+.form-style input[type="radio"], .form-style input[type="checkbox"] {
+    width: auto;
+    max-width: none;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.t-order .last-address {
+    border-bottom: 1px solid #eaeaea;
+    border-top: 1px solid #eaeaea;
+    list-style: outside none none;
+    padding: 15px 0;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+
+.form-style input, .form-style select {
+    font-size: 16px;
+    margin: 20px 20px 7px 0;
+    display: block;
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-group .label-sup {
+    font-size: 11px;
+    color: #666;
+    display: block;
+}
+
+.form-group .label-sup + input {
+    margin-top: 0;
+}
+
+.order-list-items .item {
+    border-top: 1px solid #ececec;
+    padding-top: 20px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.order-list-items .item:first-child {
+    border-top: none;
+    padding-top: 0;
+}
+
+.order-list-items .item .radio-column {
+    width: 25px;
+}
+
+.order-list-items .item .info-column {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -moz-box-flex: 1;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.order-list-items .item .info-column .line {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    justify-content: space-between;
+    margin-bottom: 7px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+}
+
+.order-list-items .item .h3 {
+    margin: 0;
+}
+
+.order-list-items .item .info-column .price-value {
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.form-style textarea {
+    border: 1px solid #d8d8d8;
+    width: 100%;
+    min-height: 100px;
+}
+
+.t-order_button-block {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center;
+}
+
+.t-order_button-block .link {
+    width: 150px;
+    font-size: 14px;
+    padding: 8px 0;
+    margin: 5px 5px;
+}
+
+.link-more {
+    background-color: #ffac00;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-family: "UbuntuLight";
+    margin: 4px 9px;
+    padding: 7px 11px;
+}
+
+.link-del {
+    background-color: transparent;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    color: #999;
+    display: block;
+    margin: 15px 0 0;
+    width: 140px;
+    font-family: "UbuntuLight";
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0 10px 25px;
+    position: relative;
+}
+
+.sticky {
+    position: sticky;
+    top: 60px;
+}
+
+.sidebar {
+    background-color: #fff;
+    margin-bottom: 29px;
+    padding: 0;
+    width: 100%;
+}
+
+.t-order-products {
+    padding: 0;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.t-order-products .product-side-list {
+    padding: 0 30px;
+    max-height: 410px;
+    overflow: auto;
+}
+
+.t-order-structure_item {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.t-order-structure_img {
+    width: 65px;
+    height: 65px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.t-order-structure_text {
+    font-family: "UbuntuLight";
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: calc(100% - 85px);
+}
+
+.t-order-structure_text .code-line {
+    font-size: 12px;
+}
+
+.t-order-structure_text .price {
+    font-family: "UbuntuBold";
+    font-size: 14px;
+}
+
+.t-order-structure_text .discount {
+    font-family: "UbuntuLight";
+    font-size: 12px;
+    color: green;
+}
+
+.t-payment-and-delivery {
+    padding: 0 30px 15px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.table-keyvalue {
+    width: 100%;
+}
+
+.table-keyvalue td {
+    padding: 7px;
+}
+
+.text-nowrap {
+    white-space: nowrap;
+}
+.text-right {
+    text-align: right;
+}
+
+.t-order-checkout, .t-order-total {
+    padding: 15px;
+}
+
+.t-order-checkout_wrapper,
+.t-order-total_wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+    margin: 0 0 15px 0;
+}
+
+.t-order-checkout_wrapper p,
+.t-order-total_wrapper p {
+    font-size: 19px;
+    margin: 0 0 10px;
+}
+
+.link-white:hover,
+.link-white:focus,
+.link-one-click:hover,
+.link-one-click:focus {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    color: #ffac00;
+    opacity: .85;
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+.t-order .link:hover {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    opacity: .85;
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+.t-registration-steps {
+    opacity: 1;
+}
+
+.t-order-wrapper {
+    background-color: #fff;
+    margin-bottom: 29px;
+}
+
+.t-order-top {
+    padding: 0 30px 15px;
+}
+
+.t-registration-end .t-order-card_description {
+    width: 100%;
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.t-order-card_description {
+    width: 60%;
+    padding: 0 30px;
+}
+
+.t-order_table {
+    font-family: "UbuntuLight";
+    font-size: 16px;
+    width: 100%;
+    margin: 15px 0;
+}
+
+.t-order_table td {
+    padding-bottom: 15px;
+}
+
+.t-order_table td:nth-child(2n) {
+    padding: 0 15px 15px;
+    opacity: 0.65;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: baseline;
+    -ms-flex-align: baseline;
+    -webkit-align-items: baseline;
+    -moz-align-items: baseline;
+    align-items: baseline;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.page-registration-steps a.link-more {
+    margin: 35px 0 15px;
+    width: 200px;
+    padding: 12px 0;
+    display: block;
+    text-align: center;
+    font-size: 16px;
+}
+
+.link-more {
+    background-color: #ffac00;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-family: "UbuntuLight";
+    margin: 4px 9px;
+    padding: 7px 11px;
+}
+
+.t-order_confirm {
+    background: #fff;
+}
+
+.t-order_head {
+    padding: 0 30px;
+}
+
+.card-order-product {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: none;
+    margin-bottom: 0;
+    border-bottom: 1px solid #e8e8e8;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #fff;
+    margin: 0 auto 29px;
+    overflow: hidden;
+    position: relative;
+    transition: ease-in-out 0.3s;
+    width: 100%;
+    max-width: 360px;
+}
+
+.card-order-product .card-text {
+    width: 50%;
+    padding: 30px;
+}
+
+.card-text {
+    background-color: #fff;
+    box-shadow: 0 0 30px 5px #fff;
+    width: 100%;
+}
+
+.card-order-product .card-quantity {
+    width: 20%;
+    padding: 30px;
+}
+
+.card-order-product .card-price {
+    width: 30%;
+    padding: 30px;
+    text-align: right;
+}
+
+.card-order-product .card-price_present {
+    font-family: "UbuntuBold";
+    font-size: 24px;
+    white-space: nowrap;
+}
+
+.t-registration-end .t-order-card_end-sum {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: baseline;
+    -ms-flex-align: baseline;
+    -webkit-align-items: baseline;
+    -moz-align-items: baseline;
+    align-items: baseline;
+    padding: 30px 30px 15px;
+}
+
+.t-registration-end .t-order-card_end-sum p {
+    font-size: 20px;
+}
+
+.t-registration-end .t-order-card_end-sum span {
+    font-family: "UbuntuBold";
+    font-size: 30px;
+}
+
+.t-registration-end .t-order_button-block {
+    padding-bottom: 30px;
+}
+
+.t-order_button-block {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center;
+}
+
+.t-registration-end .t-order_button-block button, .t-registration-end .t-order_button-block a {
+    width: 300px;
+    margin: 0 15px 30px;
+    padding: 12px 0;
+    font-size: 16px;
+}
+
+.page-registration-steps a.link-more {
+    margin: 35px 0 15px;
+    width: 200px;
+    padding: 12px 0;
+    display: block;
+    text-align: center;
+    font-size: 16px;
+}
+
+.link-more {
+    background-color: #ffac00;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-family: "UbuntuLight";
+    margin: 4px 9px;
+    padding: 7px 11px;
+}
+
+/**
+* Для fashion
+*/
+#order-form .onePageProductsBlock .coItems{
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .stiky {
+        position: relative !important;
+        top: 0;
+    }
+} 

@@ -1,0 +1,266 @@
+@media only screen and (min-width: 768px) and (max-width: 999px){
+    .viewport{
+        max-width: 768px;
+    }
+    .bannerSlider{
+        display: none;
+    }
+    .slider-shadow{
+        display: none;
+    }
+    .advantages td { 
+        vertical-align: top; 
+        width: 48%; 
+    }
+    .advantages-item{
+        width: 49%;
+    }
+
+    .deliveryBlock .descr ul {
+        margin-left: 20px;
+    }
+
+     .deliveryBlock .image {
+        width: 40%;
+        height: auto;
+        margin-bottom: 10px;
+        margin-right: 25px;
+    }
+
+    .category {
+        max-width: 758px;
+        min-width: 640px;        
+        margin: 0 auto;
+    }
+
+    .category div.wrap-category {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .category div.wrap-category div.first-ur a {
+        padding: 0 12px;
+    }
+
+    header .menu {
+        left: 12%;
+    }
+
+    header .logo {
+        margin-top: 30px;
+    }   
+
+    header .searchBlock {
+        display: block;
+        position: absolute;
+        bottom: 30px;
+        left: 35%;
+    }
+
+    header .anapaContacts {
+        border-left: none;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    header .userBlock {
+        right: 10px;        
+    }
+
+   footer .footzone {
+        width: 100%;
+        max-width: 668px;
+        padding-bottom: 150px;
+    }
+
+    footer .headerContacts {
+        right: 5px;
+    }
+
+    footer .user-agreement {
+        display: none;
+    }
+
+    footer {
+        height: 220px;
+    }
+
+    header {
+        height: 220px;
+    }
+
+    .news li {
+        float: none;
+        width: 90%;
+        margin: 25px auto 0 auto;
+    }
+
+    .chat-help .chat-help-btn.chat-help-btn-left {
+        display: none;
+    }
+
+    .productList .products li {
+        width: 33%;
+    }
+
+    .lastViewed {
+        display: none;
+    }
+
+    .lastViewedMobile {
+        display: block;
+    }
+
+    .productList .viewAs {        
+        top: -40px;
+    }
+
+    .text-forceo {
+        width: 100%;
+    }
+
+    .checkoutSteps {
+        margin-top: 120px;
+        float: left;
+    }
+
+    .checkout .yourcart {
+        top: 130px;
+        right: 10px;
+        width: 100%;
+    }
+
+    #mirvodi-block3 p { width: 100%; padding: 0 15px; margin-bottom: 15px; }
+    
+    #mirvodi-block1 {
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    #mirvodi-block1 p {
+        width: 100% !important;
+        text-align: left;
+    }
+
+    #mirvodi-block1 img {
+        float: none !important;
+        margin-bottom: 10px; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: auto;
+    }
+
+    .address-link {
+        top: -30px;
+        max-width: 300px;
+    }
+
+    .productInfo {
+        width: 768px;
+        float: none;
+    }
+
+    .productInfo .buttons {
+        margin-right: 30px;
+    }
+
+    .mobile-application {
+        margin-top: 8px;
+    }
+
+    .block-text .block-tovar {
+        padding: 0 5px;
+    }
+
+    .protovary__image {
+        width: 100px;
+        margin-right: 20px;
+    }
+
+    .protovary__anons {
+        width: 600px;
+    }
+
+    .menu-okompanii {
+        width: 100%;
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .menu-okompanii ul {
+        text-align: center;
+    }
+
+    .menu-okompanii ul li {
+        display: inline-block;
+        vertical-align: top;
+        margin: 10px;
+    }
+
+    .okompanii__block1 {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 5px;
+        margin-right: 0px;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .okompanii__block2 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .okompanii__waterList {
+        position: relative;
+        text-align: center;
+        width: 100%;
+        right: 0;
+        top: 0;
+    }
+
+    .okompanii__waterList ul {
+        display: inline-block;
+        margin-right: 25px;
+        vertical-align: top;
+    }
+
+    .okompanii__block3 {
+        width: 100%;
+    }
+
+    .okompanii__block4 {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .okompanii__block5 {
+        width: 100%;
+    }
+
+    .okompanii__block6 {
+        padding: 30px 10px;
+    }
+
+    .okompanii__block6_1 {
+        width: 80%;
+    }
+
+    .okompanii__block6 ul {
+        padding: 0 0 0 0;
+    }
+
+    .block100 { width: 100%; }
+
+    .service__desc { max-width: 350px; }
+    .dostavka__block1 { width: 100%; }
+    .payment__item { width: 100%; }
+    .before-order { padding: 20px; }
+    .checkout .userType label {margin-right: 0; width: 46%;}
+    .formStyle input[type=text], .formStyle input[type=password] {width: 100% !important;}
+    .delivery__block6__item ul {padding-left: 70px;}
+    .delivery__block1__item {width: 32%; margin-bottom: 15px;}
+    .delivery__block3__item {width: 32%; margin-bottom: 15px;}
+    .delivery__block6__item__title p {font-size: 14px !important;}
+    
+}

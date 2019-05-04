@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Дополнительный функционал</name>
+        <description multilanguage="true">Дополнительный функционал системы</description>
+        <version>1.0.0</version>
+        <author>Zakusilo Alexander</author>
+    </defaultValues>
+</config>

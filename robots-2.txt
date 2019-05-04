@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /cart?*
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /core/
+Disallow: /modules/
+Disallow: /vote.php
+Sitemap: https://xn--80aabfkca9dloch1qc.xn--p1ai/sitemap-2.xml
+
+User-agent: Yandex
+Disallow: /cart?*
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /core/
+Disallow: /modules/
+Disallow: /vote.php
+Host: https://xn--80aabfkca9dloch1qc.xn--p1ai
+Sitemap: https://xn--80aabfkca9dloch1qc.xn--p1ai/sitemap-2.xml

@@ -1,0 +1,8 @@
+<config>
+	<defaultValues>
+		<name>Online - Модуль, дописанный компанией  Eridan</name>
+		<description>Вносит изменения в логику работы движка - по заказу ООО Акватория. Распеределяет все поступающие заказы между операторами, которые находятся Он-лайн</description>
+		<version>1.0.0</version>
+		<author>Eridan</author>
+	</defaultValues>
+</config>

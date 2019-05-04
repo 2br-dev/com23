@@ -1,0 +1,41 @@
+
+<IfModule mod_php5.c>
+    php_flag magic_quotes_gpc off
+    php_flag magic_quotes_runtime off
+    php_flag register_globals off
+    php_flag display_errors on
+</IfModule>
+
+<IfModule mod_dir.c>
+    DirectoryIndex index.php index.htm index.html
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} xn--80aabfkca9dloch1qc\.xn--p1ai$
+RewriteRule ^(robots.txt)$ /robots-2.txt [L]
+RewriteCond %{HTTP_HOST} com23\.ru$
+RewriteRule ^(robots.txt)$ /robots-1.txt [L]
+RewriteCond %{HTTP_HOST} xn--80aaf5a.xn--p1acf
+RewriteRule ^(robots.txt)$ /robots-1.txt [L]
+
+#RewriteBase /
+    
+    RewriteRule ^(robots.txt)$ $1 [L]
+
+    RewriteCond %{HTTP:Authorization} ^Basic.*
+    RewriteRule ^(.*)$ index.php?http_authorization=%{HTTP:Authorization} [QSA,L]    
+    
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>
+
+#Запрещаем открывать файлы напрямую
+<Files ~ "(\.inc\.php|\.tpl|\.tpl\.php|\.auto\.php)$">
+    Order allow,deny
+    Deny from all
+</Files>
+
+php_value default_charset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml

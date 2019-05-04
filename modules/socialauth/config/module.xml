@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Авторизация через соц. сети</name>
+        <description multilanguage="true">Позволяет авторизоваться через социальные сети ВКонтакте, Одноклассники, Mail.Ru, Yandex, Google, Facebook и т.д. через сервис uLogin</description>        
+        <version>1.0.0.4</version>
+        <author>Zakusilo Alexander</author>
+    </defaultValues>
+</config>

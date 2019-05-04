@@ -1,0 +1,156 @@
+@media only screen and (min-width: 768px) and (max-width: 999px){
+    .viewport{
+        max-width: 768px;
+    }
+    .bannerSlider{
+        display: none;
+    }
+    .slider-shadow{
+        display: none;
+    }
+    .advantages{
+        max-width: 768px;
+    }
+    .advantages td { 
+    vertical-align: top; 
+    width: 48%; 
+    }
+    .advantages{
+        max-width: 768px;
+    }
+    .advantages-item{
+        width: 49%;
+    }
+
+    .deliveryBlock .descr ul {
+        padding-left: 480px;
+    }
+
+    .category {
+        max-width: 758px;
+        min-width: 640px;        
+        margin: 0 auto;
+    }
+
+    .category div.wrap-category {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .category div.wrap-category div.first-ur a {
+        padding: 0 12px;
+    }
+
+    header .menu {
+        left: 12%;
+    }
+
+    header .logo {
+        margin-top: 30px;
+    }   
+
+    header .searchBlock {
+        display: block;
+        position: absolute;
+        bottom: 50px;
+        left: 35%;
+    }
+
+    header .anapaContacts {
+        border-left: none;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    header .userBlock {
+        right: 10px;        
+    }
+
+   footer .footzone {
+        width: 100%;
+        max-width: 668px;
+        padding-bottom: 150px;
+    }
+
+    footer .headerContacts {
+        right: 5px;
+    }
+
+    footer .user-agreement {
+        display: none;
+    }
+
+    footer {
+        height: 220px;
+    }
+
+    header {
+        height: 220px;
+    }
+
+    .news li {
+        float: none;
+        width: 90%;
+        margin: 25px auto 0 auto;
+    }
+
+    .chat-help .chat-help-btn.chat-help-btn-left {
+        display: none;
+    }
+
+    .productList .products li {
+        width: 33%;
+    }
+
+    .lastViewed {
+        display: none;
+    }
+
+    .lastViewedMobile {
+        display: block;
+    }
+
+    .productList .viewAs {        
+        top: -40px;
+    }
+
+    .text-forceo {
+        width: 100%;
+    }
+
+    .checkoutSteps {
+        margin-top: 120px;
+        float: left;
+    }
+
+    .checkout .yourcart {
+        top: 130px;
+        right: 10px;
+    }
+
+    #mirvodi-block3 p { width: 100%; padding: 0 15px; margin-bottom: 15px; }
+    
+    #mirvodi-block1 {
+        padding-top: 60px;
+        text-align: center;
+    }
+
+    #mirvodi-block1 p {
+        width: 100% !important;
+        text-align: left;
+    }
+
+    #mirvodi-block1 img {
+        float: none !important;
+        margin-bottom: 10px; 
+        margin-left: auto;
+        margin-right: auto; 
+        width: auto;
+    }
+
+    .address-link {
+        top: -30px;
+        max-width: 300px;
+    }
+
+}
